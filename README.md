@@ -1,4 +1,4 @@
-# bmi
+# BMI APP
 
 A new Flutter project.
 
